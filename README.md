@@ -1,7 +1,9 @@
 🔐 Password Manager
 
 A full-stack password manager that allows users to securely store, retrieve, and manage their credentials using a MongoDB backend and a simple user-friendly interface.
+
 ✨ Features
+
 🔐 Secure Storage – Store usernames, site , and passwords safely
 
 📋 Copy to Clipboard – Instantly copy passwords with a single click
